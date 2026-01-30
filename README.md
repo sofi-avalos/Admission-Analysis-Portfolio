@@ -15,6 +15,8 @@ The goal of this analysis is to identify key drivers for university admissions a
 * **Correlation Heatmaps:** Visual representation of feature interdependencies.
 * **Normality Checks:** Comparative analysis of actual GRE distributions vs. theoretical normal curves.
 
+* ![Correlation Heatmap](heatmap.png)
+
 ## 🛠️ Tech Stack
 * **Python** (Pandas, NumPy)
 * **Visualization:** Matplotlib, Seaborn
@@ -23,4 +25,5 @@ The goal of this analysis is to identify key drivers for university admissions a
 ## 📂 How to Use
 1. Clone the repository.
 2. Ensure you have the `Admission_Predict.csv` file in the same directory.
+
 3. Run `Admission_prediction.ipynb` in VS Code or Jupyter Notebook.
